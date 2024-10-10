@@ -1,1 +1,2 @@
 Add Indix.txt
+conflicts are resolved
