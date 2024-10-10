@@ -1,2 +1,2 @@
 Add Indix.txt
-to create a conflicts
+conflicts are resolved
